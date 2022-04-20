@@ -113,3 +113,5 @@ friends: [
         href: "https://yuanhuawei.com/123"
     }
 ]
+
+theme: jekyll-theme-cayman
